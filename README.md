@@ -1,4 +1,4 @@
-# C# Kütüphane Otomasyonu (2023)
+# C# Kütüphane Otomasyonu
 
 Bu proje, 2023 yılında geliştirilmiş bir C# kütüphane otomasyonu uygulamasıdır.  
 
